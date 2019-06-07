@@ -28,4 +28,4 @@ You can also view them in the browser by clicking the index links below.
 * Prologue
   * [Chp1. Python Data Model](https://nbviewer.jupyter.org/github/ppranitps20/Python-Notes/blob/master/Chp1%20-%20Python%20Data%20Model.ipynb)
 * Data Sructures
-  * [Chp2. An Array Of Sequences](https://nbviewer.jupyter.org/github/ppranitps20/Python-Notes/blob/master/Chp2%20-%20Data%20Structures.ipynb)
+  * [Chp2. An Array Of Sequences](https://nbviewer.jupyter.org/github/ppranitps20/Python-Notes/blob/master/Chp2%20-%20An%20Array%20Of%20Sequences.ipynb)
