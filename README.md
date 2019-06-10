@@ -29,3 +29,4 @@ You can also view them in the browser by clicking the index links below.
   * [Chp1. Python Data Model](https://nbviewer.jupyter.org/github/ppranitps20/Python-Notes/blob/master/Chp1%20-%20Python%20Data%20Model.ipynb)
 * Data Sructures
   * [Chp2. An Array Of Sequences](https://nbviewer.jupyter.org/github/ppranitps20/Python-Notes/blob/master/Chp2%20-%20An%20Array%20Of%20Sequences.ipynb)
+  * [Chp3. Dictionaries and Sets](https://nbviewer.jupyter.org/github/ppranitps20/Python-Notes/blob/master/Chp3%20-%20Dictionaries%20and%20Sets.ipynb)
